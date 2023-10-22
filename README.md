@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌐 Beginner web developer with a passion for crafting seamless user experiences.<br>✍️ Content writer blending tech knowledge with compelling narratives.<br>🚀 Eager to collaborate and grow in the vibrant open-source community!
 
+[![An image of @bhoomikarao22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhoomikarao)](https://www.holopin.io/@bhoomikaro#)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhoomika-rao-52521722a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@bhoomikarao) 
