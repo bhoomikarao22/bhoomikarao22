@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Beginner web developer with a passion for crafting seamless user experiences.<br>✍️ Content writer blending tech knowledge with compelling narratives.<br>🚀 Eager to collaborate and grow in the vibrant open-source community!
+✍️ Learner blending tech knowledge with compelling narratives.<br>🚀 Eager to collaborate and grow in the vibrant open-source community!
 
 [![An image of @bhoomikaro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhoomikaro)](https://holopin.io/@bhoomikaro)
 
